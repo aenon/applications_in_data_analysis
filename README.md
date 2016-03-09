@@ -1,4 +1,4 @@
-# applications_in_data_analysis
+# Applications in Data Analysis
 
 Some data analysis mini projects
 
